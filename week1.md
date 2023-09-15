@@ -1,6 +1,6 @@
-# $\color{black} {week1-homework} $
-$\color{black} {student:Kefan He } $ <br>
-$\color{black} {ID:     22307130441 } $ 
+# week1-homework
+student:Kefan He <br>
+ID:     22307130441   
 ## Q&A
 ps: this student is poor at history and the answers he answered below only referred to the reading material only. He sincerely apologizes if his responses were contradictive to historical facts.
 1. > *How do you think about Bao, who seems to be the one who always sacrifice for Guan?*
